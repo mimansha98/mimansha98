@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/mimansha98/mimansha98/blob/main/readme%20gif.gif">
 </p>
  
-## :rainbow: Hey Everyone <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## :rainbow: Hey Everyone <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Mimansha Agrawal
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=mimansha98 alt=mimansha98/></p>  
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mimansha-agrawal-4aba94178/)
@@ -34,6 +34,19 @@ Here are some ideas to get you started:
 ### Where did I work earlier:question::woman_technologist:                
 <code>* [Smart India Hackathon 2020](https://www.sih.gov.in/) [Grand - Finalist]</code>      
 <code>* [IIIT Allahabad](https://www.iiita.ac.in/) [Summer Research Intern]</code>    
+
+## Stack I am comfortable with::rocket:
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" src="https://github.com/AwesomeLogos/logomono/blob/gh-pages/logos/tableau-software.svg></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-ar21.svg"></code>
   
 ### What am I learning:question::point_down:	
 <code>var topics = [" Data Analysis" , "Data Science" , "Machine Learning & Deep learning", "Tableau"];</code>
