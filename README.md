@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <!--[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)-->
 
 
-### Who am I:question: 
+### About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 <code>git commit -m "Hello, I'm an Incoming Graduate Analyst at [Barclays](https://home.barclays/)"</code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/barclays/barclays-ar21.svg"></code>
 
@@ -61,4 +61,7 @@ Here are some ideas to get you started:
 ### Contact me via::email:
 
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/mimansha-agrawal-4aba94178/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/mimanshaaa98/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/mimansha98) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/mimanshaagrawal1) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@mimanshaagrawal1998) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:mimanshaagrawal1998@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+<p align="center">
+  <img src="https://github.com/mimansha98/mimansha98/blob/main/readme%20gif.gif" width="980">
+</p> 
