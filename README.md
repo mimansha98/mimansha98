@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/mimansha98)
 <!--[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)-->
 
-Wanna Stalk my website? [Click Here](https://mimanshaagrawal.tiiny.site/):sparkles:  
+Wanna Stalk my website? [Click Here](https://mimanshaagrawal.netlify.com/):sparkles:  
 
 
 ### About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
