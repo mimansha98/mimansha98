@@ -32,7 +32,7 @@ Wanna Stalk my website? [Click Here](https://mimanshaagrawal.netlify.com/):spark
 
 
 ### About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-<code>git commit -m "Hello, I'm an Incoming Graduate Analyst at [Barclays](https://home.barclays/)"</code>
+<code>git commit -m "Hello, I'm a Graduate Analyst at [Barclays](https://home.barclays/)"</code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/barclays/barclays-ar21.svg"></code>
 
 ### Where did I work earlier:question::woman_technologist:                
