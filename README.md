@@ -35,7 +35,8 @@ Wanna Stalk my website? [Click Here](https://mimanshaagrawal.netlify.com/):spark
 <code>git commit -m "Hello, I'm a Graduate Analyst at [Barclays](https://home.barclays/)"</code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/barclays/barclays-ar21.svg"></code>
 
-### Where did I work earlier:question::woman_technologist:                
+### Where did I work earlier:question::woman_technologist: 
+<code>* [İstanbul Aydın Üniversitesi, Turkey](https://www.aydin.edu.tr/en-us/Pages/default.aspx) [Research Trainee]</code>  
 <code>* [Smart India Hackathon 2020](https://www.sih.gov.in/) [Grand - Finalist]</code>      
 <code>* [IIIT Allahabad](https://www.iiita.ac.in/) [Summer Research Intern]</code>    
 
